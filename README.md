@@ -22,7 +22,7 @@ the two-year historical log corresponding to years 2011 and 2012 from Capital Bi
 Results
 =========================================
 
-######Training loss: 0.068 & Validation loss: 0.155
+###### Training loss: 0.068 & Validation loss: 0.155
 
 
 
@@ -32,7 +32,7 @@ Results
 
 
 
-#####The project meets the specifications, which are:
+##### The project meets the specifications, which are:
 
 All the code in the notebook runs in Python 3 without failing, and all unit tests pass.
 The sigmoid activation function is implemented correctly.
