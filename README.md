@@ -2,6 +2,8 @@
 
 Built a neural network from scratch without using tensorflow/keras framework to analyse and predict on a dataset from UCI machine learning database.
 
+The Trained network has Training loss: 0.068 & Validation loss: 0.155
+
 The feedforward neural network uses backpropagation algorithm to learn from the data and makes accurate predictions
 
 The goal of the project was predicting daily bike rental ridership using regression
@@ -15,6 +17,21 @@ The goal of the project was predicting daily bike rental ridership using regress
   Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
 precipitation, day of week, season, hour of the day, etc. can affect the rental behaviors. The core data set is related to  
 the two-year historical log corresponding to years 2011 and 2012 from Capital Bikeshare system, Washington D.C., USA
+
+=========================================
+Results
+=========================================
+
+######Training loss: 0.068 & Validation loss: 0.155
+
+
+
+![Loss](loss.png)                                                                     ![Result](result.png)
+
+
+
+
+
 
 
 =========================================
